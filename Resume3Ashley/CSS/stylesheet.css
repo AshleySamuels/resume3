@@ -1,0 +1,23 @@
+body{
+  font-family: sans-serif;
+  font-size:110%;
+  background-color: #FCF7F8;
+}
+
+header {
+  text-align: center;
+  background-color: #343330;
+}
+
+footer {
+  background-color: #302e29;
+  text-align: center;
+}
+
+div{
+  background-color: #343330;
+}
+
+aside{
+  background-color: #343330;
+}
