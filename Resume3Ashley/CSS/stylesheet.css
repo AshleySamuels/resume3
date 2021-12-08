@@ -1,23 +1,46 @@
 body{
-  font-family: sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size:110%;
   background-color: #FCF7F8;
 }
 
 header {
   text-align: center;
+  }
+
+#heading{
   background-color: #343330;
+  color:lightseagreen;
+  font-family: Arial, Helvetica, sans-serif; 
 }
 
+#headshot{
+  border: solid 30px lightseagreen;
+}
 footer {
   background-color: #302e29;
   text-align: center;
+  color:lightseagreen;
 }
 
 div{
   background-color: #343330;
+  border-color: black;
+  margin: 10px;
+  border-radius: 10px;
 }
 
 aside{
   background-color: #343330;
+}
+article{
+  background-color: lavenderblush;
+  border-color: black;
+  margin: 10px;
+  border-radius: 10px;
+}
+section{
+  border-color: black;
+  margin: 10px;
+  border-radius: 10px;
 }
