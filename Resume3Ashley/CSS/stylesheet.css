@@ -37,18 +37,15 @@ div{
   border-radius: 10px;
 }
 
-aside{
-  background-color: #343330;
-}
 article{
   background-color: grey;
 }
 
 #sidebar{
-  width: 20px;
+  width: 70%;
   background-color: #343330;
   color: lightseagreen;
-  padding: 10px;
+  padding: 2rem;
   }
 
 article{
@@ -57,9 +54,17 @@ article{
   margin: 10px;
   border-radius: 10px;
 }
+
 section{
   border-color: black;
   margin: 10px;
   border-radius: 10px;
 }
+
+.main{
+  display: flex;
+  margin-left: 1%;
+  flex: 1;
+}
+
 
