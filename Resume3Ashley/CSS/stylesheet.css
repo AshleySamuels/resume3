@@ -9,7 +9,7 @@ header {
   }
 
 #heading{
-  background-color: #343330;
+  background-color: lightpink;
   color:lightseagreen;
   font-family: Arial, Helvetica, sans-serif; 
 }
@@ -25,38 +25,39 @@ header {
   }
 
 footer {
-  background-color: #302e29;
+  background-color: lightpink;
   text-align: center;
   color:lightseagreen;
 }
 
 div{
   background-color: #343330;
-  border-color: black;
+  border-color:lightpink;
   margin: 10px;
   border-radius: 10px;
 }
 
 article{
-  background-color: grey;
+  background-color: lemonchiffon;
 }
 
 #sidebar{
   width: 70%;
-  background-color: #343330;
+  background-color: lemonchiffon;
   color: lightseagreen;
   padding: 2rem;
+  border-radius: 10px
   }
 
 article{
-  background-color: lavenderblush;
-  border-color: black;
+  background-color: lightgray;
+  border-color:lightpink;
   margin: 10px;
   border-radius: 10px;
 }
 
 section{
-  border-color: black;
+  border-color:lightpink;
   margin: 10px;
   border-radius: 10px;
 }
@@ -67,4 +68,16 @@ section{
   flex: 1;
 }
 
+a:link{
+  color:inherit;
+}
 
+a:visited{
+  color: inherit;
+}
+
+.icons{
+  width: 3rem;
+  height: auto;
+  margin: 5%;
+}
